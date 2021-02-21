@@ -4,3 +4,4 @@ Motherboard：msi z170i.
 Graphics card:XFX Rx480 4g.   
 Wifi:Intel ax200.   
 Opencore+Big Sur.   
+记得自己换三码
